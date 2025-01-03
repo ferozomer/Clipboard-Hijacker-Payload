@@ -31,4 +31,4 @@ A PowerShell-based clipboard monitoring script that logs clipboard changes local
    ```powershell
    PowerShell -ExecutionPolicy Bypass -File .\ClipboardMonitor.ps1
 
-## NOTE: This software is intended solely for educational purposes only
+## NOTE: This script is intended solely for educational purposes
